@@ -24,4 +24,21 @@ The dashboard tracks the following business-critical KPIs:
 
  ---
 
+ ## 📈 Key Insights  
+- 🥇 **Ukraine** emerged as one of the most profitable countries.  
+- 💰 **Top 10 countries** generated revenue exceeding **5M+**.  
+- 📦 Highest number of **units sold** comes from **Office Supplies and Beverages**.  
+- 🏷️ **Order Priority "M" (Medium)** contributed the **largest share of sales**.  
+- 🔄 Both **Online and Offline** channels significantly contribute to overall sales distribution.  
+
+---
+
+## 🔍 Additional Insights  
+- 📊 **Revenue concentration** is high in a few countries – expansion opportunities exist in lower-performing regions.  
+- 📦 **Critical priority orders (C)**, while fewer, still form a substantial part of the sales volume.  
+- 🛍️ **Balanced demand** across multiple item categories shows a diversified product portfolio.  
+- 📉 Some countries show **low revenue despite high sales volume**, suggesting possible pricing or cost challenges.  
+
+---
+
 
