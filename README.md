@@ -55,4 +55,5 @@ The dashboard tracks the following business-critical KPIs:
   ---
 
   ## 📎 Dashboard  
+<img width="864" height="456" alt="Dashboard" src="https://github.com/user-attachments/assets/f3767b34-ed1f-489f-8938-f5f318b1b091" />
 
