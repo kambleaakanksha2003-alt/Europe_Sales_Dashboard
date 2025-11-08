@@ -41,4 +41,16 @@ The dashboard tracks the following business-critical KPIs:
 
 ---
 
+## 📚 Data Story  
+- 🌍 **Ukraine, Kosovo, and San Marino** lead as **top-performing countries**.  
+- 📦 **Office Supplies and Beverages** dominate sales volume, indicating steady demand.  
+- 📉 Countries like **Andorra** and **Bosnia-Herzegovina** underperform compared to peers.  
+- 💡 Recommendations:  
+  - Focus marketing campaigns on **low-revenue countries** to boost sales.  
+  - Introduce **dynamic pricing strategies** in regions with high sales but low profitability.  
+  - Strengthen **online sales channels** to capture emerging digital market opportunities.
+ 
+  ---
+
+  ## 📎 Dashboard  
 
